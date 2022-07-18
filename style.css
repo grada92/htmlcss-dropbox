@@ -84,5 +84,21 @@ p {
     height: 60%;
     top: 260px;
     left: 400px;
-
 }
+
+main {
+
+    margin: 0px 400px;
+}
+
+.section1 {
+    padding-top: 200px;
+}
+
+.box {
+    background-color: red;
+    padding: 100px 30px;
+    width: calc( 100% / 3);
+    margin: 20px;
+}
+
