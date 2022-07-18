@@ -93,12 +93,19 @@ p {
     padding-top: 200px;
 }
 
+.container-main {
+
+    justify-content: space-between;
+}
+
+
+
 .box {
     background-color: red;
     padding: 100px 30px;
-    width: calc( 100% / 3);
-    margin: 20px;
-    height: 400px;
+    width: 300px;
+    margin: 20px 0px;
+    height: 700px;
     border: 2px black solid;
 }
 
