@@ -223,7 +223,7 @@ footer {
 .sectionfooter {
 
     color: white;
-    padding: 50px;
+    padding: 70px;
     justify-content: center;
 }
 
@@ -248,3 +248,12 @@ footer {
     color: white;
 }
 
+.ita-lang  {
+
+    
+    width: 80px;
+    height: 18px;
+    background-color: black;
+    border: none;
+    color: white;
+}
