@@ -178,6 +178,18 @@ p {
     background-color: red;
 }
 
+.logo-img {
+
+    border: 2px black solid;
+
+}
+
+.firstbox {
+
+    height: 300px;
+}
+
+
 .section6 {
    
    height:300px;
@@ -223,6 +235,9 @@ h4 {
     align-items: center;
 }
 
+
+/* Footer */
+
 footer {
     background-color: black;
 }
@@ -264,3 +279,4 @@ footer {
     border: none;
     color: white;
 }
+
