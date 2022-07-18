@@ -5,3 +5,31 @@ margin: 0px;
 padding: 0px;
 box-sizing: border-box;
 }
+
+body {
+    font-family: sans-serif;
+}
+
+/* flex */
+
+.flex {
+    display: flex;
+}
+
+
+
+
+.main-header {
+ height: 10vh;
+ width: 100%;
+ background-color: red;
+ position: fixed;
+ justify-content: space-between;
+ align-items: center;
+ padding: 20px;
+}
+
+.main-header *{
+
+    gap: 30px;
+}
