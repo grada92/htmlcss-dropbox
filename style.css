@@ -100,5 +100,10 @@ main {
     padding: 100px 30px;
     width: calc( 100% / 3);
     margin: 20px;
+    height: 400px;
+}
+
+.section1 h2 {
+    margin-bottom: 30px;
 }
 
