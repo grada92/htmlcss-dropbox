@@ -41,7 +41,7 @@ body {
  
 }
 
-a {
+.total-header a {
     text-decoration: none;
     color: black;
 }
@@ -146,5 +146,25 @@ main {
     margin: 40px 20px;
     width: calc(100%/ 3 - 40px);
     flex-shrink: 0;
+}
+
+
+.section4 {
+
+    padding-top: 200px;
+}
+
+.section4 h2 {
+    padding-bottom: 30px
+    ;
+}
+
+#link1 {
+    color: #0061ff;
+}
+
+.section5 {
+    padding-top: 100px;
+    background-color: red;
 }
 
