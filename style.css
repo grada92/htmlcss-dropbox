@@ -22,7 +22,6 @@ body {
 .main-header {
  height: 10vh;
  width: 100%;
- background-color: red;
  position: fixed;
  justify-content: space-between;
  align-items: center;
@@ -32,4 +31,22 @@ body {
 .main-header *{
 
     gap: 30px;
+}
+
+#button1 {
+ background-color:#0061ff;
+ padding: 3px 5px;
+ margin: -3px;
+ color: white;
+ 
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.second-header {
+    height: 300px;
+    background-color: #b4d0e7;
 }
