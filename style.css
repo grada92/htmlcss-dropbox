@@ -104,13 +104,17 @@ p {
 
 .box {
     background-color: red;
-    padding: 100px 30px;
     width: 200px;
     margin: 20px 0px;
     height: 700px;
     border: 2px black solid;
+    flex-direction: column;
 }
 
+.column {
+
+    flex-direction: column;
+}
 .section1 h2 {
     margin-bottom: 30px;
 }
@@ -176,20 +180,24 @@ p {
 
 .section5 {
     width: 100%;
-    padding-top: 100px;
     background-color: red;
 }
 
 .logo-img {
-
+    height: 250px;
+    background-color: #61082b;
     border: 2px black solid;
+    width: calc(100% / 2);
 
 }
 
-.firstbox {
 
-    height: 300px;
+.box-logo {
+    flex-wrap: wrap;
+    width: calc(100% / 3);
 }
+
+
 
 
 .section6 {
