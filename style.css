@@ -71,7 +71,7 @@ p {
 
 #button2 {
     background-color:#0061ff;
-    padding: 3px 5px;
+    padding: 5px 15px;
     margin: -3px;
     color: white;
     margin-bottom: 20px;
@@ -104,7 +104,7 @@ p {
 
 
 .box {
-    width: 200px;
+    width: 220px;
     margin: 20px 0px;
     border: 2px black solid;
     flex-direction: column;
@@ -138,6 +138,8 @@ p {
     margin: 0px 400px;
 
 }
+
+
 
 
 #partner {
