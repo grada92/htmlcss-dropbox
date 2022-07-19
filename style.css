@@ -245,6 +245,15 @@ background-color:#61082b;
     padding: 50px;
 }
 
+#filter2 {
+        filter: invert(1);
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        padding: 50px;
+        margin: 60px 0px;
+}
+
 .paragrafologo p {
     padding-top: 20px;
 }
