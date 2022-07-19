@@ -488,7 +488,6 @@ footer {
 .nav-header2 a:hover {
     opacity: 0.3;
     cursor: pointer;
-    border-bottom: 0.5px black solid;
 }
 
 .button2:hover {
