@@ -185,12 +185,12 @@ p {
 
 .logo-img {
     height: 250px;
-    border: 2px black solid;
     width: calc(100% / 2);
 }
 
 .verde {
     background-color: #a2d39b;
+    border: 10px #d1e9cd solid;
 }
 
 .bordeaux {
