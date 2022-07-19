@@ -17,7 +17,7 @@ body {
 }
 
 
-
+/* Content */
 
 .main-header {
  height: 10vh;
@@ -26,6 +26,8 @@ body {
  justify-content: space-between;
  align-items: center;
  padding: 20px;
+ position: fixed;
+ z-index: 2;
 }
 
 .main-header *{
@@ -103,7 +105,7 @@ p {
 .box {
     background-color: red;
     padding: 100px 30px;
-    width: 300px;
+    width: 200px;
     margin: 20px 0px;
     height: 700px;
     border: 2px black solid;
@@ -205,7 +207,7 @@ p {
     margin: 0px 400px;
     justify-content: space-between;
     align-items: center;
-    gap: 300px;
+    gap: 40px;
 }
 
 #button3 {
