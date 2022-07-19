@@ -30,6 +30,9 @@ body {
  z-index: 2;
 }
 
+/* HEADER */
+
+
 .main-header *{
 
     gap: 30px;
@@ -49,7 +52,7 @@ body {
 }
 
 .second-header {
-    height: 500px;
+    height: 530px;
     background-color: #b4d0e7;
 
 }
@@ -82,6 +85,10 @@ p {
     width: 300px;
 }
 
+.container-header i {
+    font-size: 30px;
+}
+
 .img-header2 {
     position: absolute;
     height: 60%;
@@ -89,6 +96,10 @@ p {
     left: 400px;
 }
 
+/* /HEADER */
+
+
+/* MAIN */
 
 
 .section1 {
@@ -407,6 +418,8 @@ h4 {
     padding-right: 20px;
 }
 
+/* /MAIN */
+
 
 /* Footer */
 
@@ -444,12 +457,11 @@ footer {
 
 
 .ita-lang  {
-
-    
     width: 80px;
     height: 18px;
     background-color: black;
     border: none;
     color: white;
+ 
 }
 
