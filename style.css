@@ -71,7 +71,7 @@ p {
 
 .button2 {
     background-color:#0061ff;
-    padding: 5px 18px;
+    padding: 8px 15px;
     margin: -3px;
     color: white;
     margin-bottom: 20px;
@@ -180,7 +180,7 @@ p {
     background-color:white;
     width: 100%;
     justify-content: center;
-    line-height: 30px;
+    line-height: 35px;
     border-bottom: 0.5px black solid;
 }
 
