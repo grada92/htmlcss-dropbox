@@ -286,7 +286,7 @@ background-color:#61082b;
     padding: 30px;
 }
 
-#filter {
+.filter {
     filter: invert(1);
     width: 100%;
     justify-content: center;
