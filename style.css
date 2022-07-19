@@ -102,11 +102,10 @@ p {
 }
 
 
-
 .box {
     width: 220px;
     margin: 20px 0px;
-    border: 2px black solid;
+    border: 0.5px black solid;
     flex-direction: column;
 }
 
@@ -114,7 +113,12 @@ p {
     height: 35px;
     justify-content: center;
     line-height: 30px;
-    border-bottom: 1px black solid;
+    border-bottom: 0.5px black solid;
+}
+
+.main-box i {
+
+    line-height: 30px;
 }
 
 .second-box {
@@ -127,13 +131,19 @@ p {
     margin-bottom: 30px;
 }
 
+.second-box .fa-solid {
+    display: inline;
+}
+
+
+
 .second-box h5{
     padding-top: 40px;
     font-size: 16px;
     padding-bottom: 20px;
-    
-    
 }
+
+
 
 .box2 {
     border: 2px black solid;
