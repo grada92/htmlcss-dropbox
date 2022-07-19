@@ -286,7 +286,7 @@ p {
 
 .verde {
     background-color: #a2d39b;
-    border: 10px #d1e9cd solid;
+
 }
 
 .bordeaux {
@@ -432,10 +432,10 @@ footer {
     color: white;
     padding: 20px;
     justify-content: center;
+    font-size: 15px;
 }
 
 .footer1 {
-    border: 2px red solid;
     flex-direction: column;
     padding: 70px;
 
@@ -504,4 +504,8 @@ footer {
 #button3:hover {
     opacity: 0.6;
     cursor: pointer;
+}
+
+.logo-img:hover {
+    border: 10px #d1e9cd solid;
 }
