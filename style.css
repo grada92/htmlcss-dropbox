@@ -115,10 +115,12 @@ p {
     background-color: #61082b;
     justify-content: center;
     line-height: 30px;
+    border-bottom: 1px black solid;
 }
 
 .second-box {
-    
+    padding: 20px;
+    font-size: 14px;
     flex-direction: column;
 }
 .section1 h2 {
