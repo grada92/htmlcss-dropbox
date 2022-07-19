@@ -41,7 +41,6 @@ body {
  margin: -3px;
  color: white;
  border: none;
- 
 }
 
 .total-header a {
@@ -149,10 +148,20 @@ p {
     padding-bottom: 20px;
 }
 
+
+.second-box a {
+    color: #0061ff;
+}
+
 .second-box .fa-solid {
     padding-right: 5px;
 }
 
+.second-box hr {
+    width: 30px;
+    color: black;
+    margin-top: 30px;
+}
 
 
 .box2 {
