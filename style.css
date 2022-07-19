@@ -207,8 +207,14 @@ p {
     padding-top: 20px;
 }
 
+.paragrafologo hr {
+    width: 100px;
+}
+
 #centerlogo {
     padding-bottom: 40px;
+    font-size: 40px;
+    width: 200px;
 }
 
 
