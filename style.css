@@ -104,16 +104,21 @@ p {
 
 
 .box {
-    background-color: red;
     width: 200px;
     margin: 20px 0px;
-    height: 700px;
     border: 2px black solid;
     flex-direction: column;
 }
 
-.column {
+.main-box {
+    height: 35px;
+    background-color: #61082b;
+    justify-content: center;
+    line-height: 30px;
+}
 
+.second-box {
+    
     flex-direction: column;
 }
 .section1 h2 {
