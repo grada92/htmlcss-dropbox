@@ -179,8 +179,8 @@ p {
 }
 
 .section5 {
+    padding-top: 70px;
     width: 100%;
-    background-color: red;
 }
 
 .logo-img {
@@ -196,6 +196,22 @@ p {
     flex-wrap: wrap;
     width: calc(100% / 3);
 }
+
+.center {
+    background-color: #f5f5f5;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.paragrafologo p {
+    padding-top: 20px;
+}
+
+#centerlogo {
+    padding-bottom: 40px;
+}
+
+
 
 
 
