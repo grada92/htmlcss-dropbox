@@ -112,7 +112,6 @@ p {
 
 .main-box {
     height: 35px;
-    background-color: #61082b;
     justify-content: center;
     line-height: 30px;
     border-bottom: 1px black solid;
@@ -120,11 +119,20 @@ p {
 
 .second-box {
     padding: 20px;
-    font-size: 14px;
+    font-size: 12px;
     flex-direction: column;
+    height: 700px;
 }
 .section1 h2 {
     margin-bottom: 30px;
+}
+
+.second-box h5{
+    padding-top: 40px;
+    font-size: 16px;
+    padding-bottom: 20px;
+    
+    
 }
 
 .box2 {
