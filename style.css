@@ -499,3 +499,8 @@ footer {
     opacity: 0.6;
     cursor: pointer;
 }
+
+#button3:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
