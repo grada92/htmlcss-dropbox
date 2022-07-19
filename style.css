@@ -161,15 +161,13 @@ p {
 }
 
 .container-section3 {
-    border: 2px red solid;
-    display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .box-section3 {
-    height: 200px;
-    border: 2px black solid;
-    margin: 40px 20px;
+    height: 230px;
+    margin: 50px 0px;
     width: calc(100%/ 3 - 40px);
     flex-shrink: 0;
     flex-direction: column;
@@ -181,6 +179,7 @@ p {
 
 .box-section3 h3 {
     font-size: 17px;
+    padding-bottom: 15px;
 }
 
 
