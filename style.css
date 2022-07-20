@@ -406,11 +406,13 @@ background-color:#61082b;
 padding-bottom: 40px;
 }
 
+
+
 h4 {
     padding: 30px 0px;
 }
 
-.domanda {
+.question {
     justify-content: space-between;
     align-items: center;
 }
@@ -418,6 +420,18 @@ h4 {
 .box-sec7 span {
     padding-right: 20px;
 }
+
+.first-question span {
+    padding-right: 20px;
+
+}
+
+.first-question {
+    justify-content: space-between;
+    align-items: center;
+
+}
+
 
 
 /* /MAIN */
@@ -510,4 +524,8 @@ footer {
     outline: 10px #d1e9cd solid;
     outline-offset: -10px;
 }
+
+
+
+
 
