@@ -20,14 +20,13 @@ body {
 /* Content */
 
 .main-header {
- height: 10vh;
  background-color: white;
  width: 100%;
  justify-content: space-between;
  align-items: center;
- padding: 20px;
  position: fixed;
  z-index: 2;
+ padding: 20px;
 }
 
 /* HEADER */
@@ -44,9 +43,10 @@ body {
  margin: -3px;
  color: white;
  border: none;
+
 }
 
-.total-header a {
+.main-header a {
     text-decoration: none;
     color: black;
 }
@@ -54,8 +54,9 @@ body {
 .second-header {
     height: 530px;
     background-color: #b4d0e7;
-
 }
+
+
 
 .center-header {
     position: relative;
@@ -473,7 +474,7 @@ footer {
     cursor: pointer;
 }
 
-#main-logo:hover {
+#logo-header1:hover {
     opacity: 0.3;
     cursor: pointer;
 }
@@ -482,7 +483,6 @@ footer {
 .nav-header1 a:hover {
     opacity: 0.3;
     cursor: pointer;
-    
 
 }
 
