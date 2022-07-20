@@ -26,7 +26,6 @@ body {
  align-items: center;
  position: fixed;
  z-index: 2;
- padding: 20px;
 }
 
 /* HEADER */
@@ -34,7 +33,12 @@ body {
 
 .main-header *{
 
-    gap: 30px;
+    gap: 40px;
+}
+
+.nav-2 {
+    align-items: center;
+    padding-right: 20px;
 }
 
 #button1 {
@@ -43,12 +47,32 @@ body {
  margin: -3px;
  color: white;
  border: none;
-
 }
 
 .main-header a {
+    padding-bottom: 20px 0px;
+}
+
+.nav-1 a {
     text-decoration: none;
     color: black;
+    padding: 20px 0px;
+}
+
+.logoheader {
+    align-items: center;
+    padding-left: 10px;
+}
+
+
+
+
+.nav-header2 a {
+
+    text-decoration: none;
+    color: black;
+    padding: 20px 0px;
+
 }
 
 .second-header {
@@ -498,14 +522,18 @@ footer {
 
 
 .nav-header1 a:hover {
-    opacity: 0.3;
+    opacity: 0.8;
     cursor: pointer;
-
+    border-bottom: 3px black solid;
+    margin-bottom: -3px;
 }
 
 .nav-header2 a:hover {
-    opacity: 0.3;
+    opacity: 0.8;
     cursor: pointer;
+    border-bottom: 3px black solid;
+    margin-bottom: -3px;
+
 }
 
 .button2:hover {
